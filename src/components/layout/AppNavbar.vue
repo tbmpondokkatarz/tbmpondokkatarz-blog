@@ -37,7 +37,7 @@ import { RouterLink } from "vue-router";
     </RouterLink>
 
     <a
-      href="https://pondokkatarz.id"
+      href="https://tbmpondokkatarz.netlify.app/"
       target="_blank"
       rel="noreferrer"
       class="font-body text-sm font-semibold text-teal hover:text-teal-dark transition-colors duration-200"
